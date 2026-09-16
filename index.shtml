@@ -15,7 +15,7 @@
 <body>
     <strong>Name:</strong> Inés De Remedios<br>
     <strong>Render site:</strong>
-    <a href="paginawebbbbbb">My render site</a><br>
+    <a href="https://terpconnect-static-site-usv1.onrender.com">My render site</a><br>
     <strong>Last modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
 
     <!---my page starts-->
