@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Fashion throughout time</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap"
+        rel="stylesheet">
+    <link rel="icon" href="logo.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <strong>Name:</strong> Inés De Remedios<br>
+    <strong>Render site:</strong>
+    <a href="paginawebbbbbb">My render site</a><br>
+    <strong>Last modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+
+    <!---my page starts-->
+    <h1>Evolution of fashion</h1>
+    <p>
+        Fashion is constantly changing and evolving. That it is due to culure, creativity, technology, and trends of
+        each generation.
+        In this page, we will admire some iconic fashion iconic moments from different decades,
+    </p>
+
+    <h2>Iconic fashion through the decades</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Decade</th>
+                <th>Trend</th>
+                <th>Iconic Moment</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1960</td>
+                <td>Mod fashion</td>
+                <td>Mini skirt</td>
+            </tr>
+
+            <tr>
+                <td>1970</td>
+                <td>Disco</td>
+                <td>Flared pants</td>
+            </tr>
+
+            <tr>
+                <td>1980</td>
+                <td>Power dressing</td>
+                <td>Shoulder pads</td>
+            </tr>
+
+            <tr>
+                <td>1990</td>
+                <td>Minimalism</td>
+                <td>Slip dress</td>
+            </tr>
+
+            <tr>
+                <td>2000</td>
+                <td>Y2K</td>
+                <td>Low risejeans</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Watch fashion through time</h2>
+    <p>
+        <a href="https://www.youtube.com/watch?v=sORunvibOYY" target="_blank">This GLAMOUR video will show this
+            evolution!</a>
+    </p>
+</body>
+
+</html>
